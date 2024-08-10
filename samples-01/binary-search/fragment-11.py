@@ -1,11 +1,11 @@
+import numpy as np
+
 def binary_search(arr, target):
-    left, right = 0, len(arr)
-    while left < right:
-        mid = (left + right) // 2
-        if arr[mid] == target:
-            return mid
-        elif arr[mid] < target:
-            left = mid + 1
-        else:
-            right = mid
-    return -1
+    # Use NumPy's searchsorted function to find the insertion point
+    index = np.searchsorted(arr, target)
+
+    # Check if the target is at the insertion point
+    if index < len(arr) and arr[index] == target:
+        return index  # Target found, return the index
+    else:
+        return -1  # Target not found, return -1
