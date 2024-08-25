@@ -7,3 +7,7 @@ there is a single `samples-01` folder with 3 subfolders, each of these with 30 f
 there are some differences in how these files were generated
 
 these samples are open for discussion as flashclass develops
+
+# example activity format
+
+There is a folder called example-activity which shows the format of an activity that can be loaded into flashclass.
