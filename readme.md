@@ -1,13 +1,41 @@
 # code samples for flashclass
 
-these files are samples of what we may decide to load into flashclass for new users
+this repo is used as input to load flashclass content with a script that is run manually
 
-there is a single `samples-01` folder with 3 subfolders, each of these with 30 fragments and related markdown for each
+> the script is here:
+> https://github.com/thetalentlab/flashclass/blob/main/scripts/extractFragmentsFromDirectory.ts
+>
+> and depends on these utilities for a single method `runFragmentSyncScript`:
+> https://github.com/thetalentlab/flashclass/blob/main/src/utils/scriptsUtils.ts
 
-there are some differences in how these files were generated
+- there is 1 important folder in this repo called `demo-activities`
+- there is also an `archived-activities` folder to keep working files from previous iterations
 
-these samples are open for discussion as flashclass develops
+# demo activity format
 
-# example activity format
+`manifest.yaml`
 
-There is a folder called example-activity which shows the format of an activity that can be loaded into flashclass.
+```yaml
+title: Binary Search
+description: Binary Search is a search algorithm that finds the position of a target value within a sorted array.
+instructions:
+  - pages:
+    - text: "In this activity we will show you a lot of code"
+    - text: "Relax and just look at the code; let your brain do the work."
+```
+
+`##-fragment.py`
+
+```py
+def binary_search(arr, target):
+    # Initialize the left and right pointers
+    left, right = 0, len(arr) - 1
+    # ... rest of code here
+```
+
+`##-metadata.yaml`
+
+```yaml
+description: Binary Search is a search algorithm that finds the position of a target value within a sorted array.
+language: Python
+```
