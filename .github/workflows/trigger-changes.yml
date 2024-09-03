@@ -1,0 +1,19 @@
+name: Trigger Content Changes
+
+on:
+  push:
+    branches:
+      - main  
+
+jobs:
+  notify-flashclass:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Trigger GitHub Action in flashclass
+        run: |
+          curl -X POST \
+            -H "Accept: application/vnd.github.v3+json" \
+            -H "Authorization: token ${{ secrets.FLASHCLASS_TOKEN }}" \
+            https://api.github.com/repos/thetalentlab/flashclass/dispatches \
+            -d '{"event_type":"trigger-from-flashclass-content"}'
