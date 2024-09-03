@@ -1,2 +1,3 @@
-description: Binary Search is a search algorithm that finds the position of a target value within a sorted array.
+long_description: This version demonstrates an unconventional use of a `for` loop to perform the iterative search, which is different from the typical `while` loop approach. The `for` loop structure allows for a fixed number of iterations but includes a mechanism to exit early if the search space is no longer valid.
+description: This implementation demonstrates an unconventional use of a `for` loop to perform the iterative search
 language: Python

@@ -1,2 +1,3 @@
-description: Binary Search is a search algorithm that finds the position of a target value within a sorted array.
+long_description: This version uses two pointers to track the search boundaries in a sorted array. It recalculates the midpoint and adjusts the search range until the target is found or the search space is exhausted.
+description: This version uses two pointers to track the search boundaries in a sorted array
 language: Python

@@ -1,2 +1,3 @@
-description: Binary Search is a search algorithm that finds the position of a target value within a sorted array.
+long_description: This variant showcases the power of NumPy for high-performance numerical operations as is common in AI and Machine Learning applications. Using `searchsorted`, the binary search is reduced to a concise and efficient implementation, making it ideal for scenarios where NumPy is already in use for other array-based computations.
+description: This one showcases the power of NumPy for high-performance numerical operations, common in AI and ML
 language: Python

@@ -1,2 +1,3 @@
-description: Binary Search is a search algorithm that finds the position of a target value within a sorted array.
+long_description: This implementation is more concise and compact due to the use of the ternary operator, which allows the logic to be expressed in fewer lines, though it may be slightly more complex to read at first glance.
+description: This implementation is more concise and compact due to the use of the ternary operator
 language: Python
