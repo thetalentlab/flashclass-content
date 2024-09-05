@@ -22,6 +22,7 @@ instructions:
   - pages:
     - text: "In this activity we will show you a lot of code"
     - text: "Relax and just look at the code; let your brain do the work."
+random: true
 ```
 
 `##-fragment.py`
