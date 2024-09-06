@@ -1,3 +1,0 @@
-long_description: This version uses two pointers to track the search boundaries in a sorted array. It recalculates the midpoint and adjusts the search range until the target is found or the search space is exhausted.
-description: This version uses two pointers to track the search boundaries in a sorted array
-language: Python

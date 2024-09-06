@@ -1,3 +1,0 @@
-long_description: This variant is unconventional, as it reverses the traditional roles of the `left` and `right` pointers, demonstrating the flexibility of recursion. The logic remains similar to standard binary search but is mirrored.
-description: This variant is unconventional, as it reverses the traditional roles of the `left` and `right` pointers
-language: Python

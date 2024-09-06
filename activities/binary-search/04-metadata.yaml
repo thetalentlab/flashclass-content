@@ -1,3 +1,0 @@
-long_description: This version uses Python's slicing to search the left or right half of the array after calculating the midpoint. While it simplifies recursion, slicing can increase space complexity by creating new sublists, potentially impacting efficiency for large arrays.
-description: This version uses slicing to search the left or right half of the array after calculating the midpoint
-language: Python

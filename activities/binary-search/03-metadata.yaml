@@ -1,3 +1,0 @@
-long_description: This version uses a `while-else` loop, where the `else` block executes if the search loop completes without finding the target. It highlights Python's unique `while-else` construct, returning `-1` when the target isn't found.
-description: This version uses a `while-else` loop, where the `else` block executes if the search loop completes
-language: Python
