@@ -8,10 +8,10 @@ this repo is used as input to load flashclass content with a script that is run 
 > and depends on these utilities for a single method `runFragmentSyncScript`:
 > https://github.com/thetalentlab/flashclass/blob/main/src/utils/scriptsUtils.ts
 
-- there is 1 important folder in this repo called `demo-activities`
+- there is 1 important folder in this repo called `activities`
 - there is also an `archived-activities` folder to keep working files from previous iterations
 
-# demo activity format
+# activity format
 
 `manifest.yaml`
 
@@ -22,6 +22,7 @@ instructions:
   - pages:
     - text: "In this activity we will show you a lot of code"
     - text: "Relax and just look at the code; let your brain do the work."
+random: true
 ```
 
 `##-fragment.py`
