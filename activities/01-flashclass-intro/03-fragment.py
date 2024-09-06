@@ -1,26 +1,17 @@
 """
 
-At the same time, there are some really big, common problems with the way
-education works today.
+Books, courses and classes are a HUGE investment of time as well as money.
 
+And there are so many options!
 
-- No one ASKS about what you already know
-
-  ... the assumption is you are a blank slate, just like everyone else,
-  because it's easier to design courses like that.
+It's almost impossible to choose.
 
 
 
-- No one OFFERS content of any serious breadth or depth for beginners
+At the same time, there are some really big problems with education today:
 
-  ... only the same small, boring nibbles over and over, because it's
-  cheaper to bring new customers to old lessons than to try something new
-
-
-
-- No one NOTICES your emotional and mental state during the lesson
-
-  ... unless you find a teacher that takes an interest, and even then it
-  can lead to teacher burnout, something like "empathy fatigue"
+- No one ASKS you about what you already know ... you are a blank slate
+- No one OFFERS beginners any serious breadth or depth ... your speed is limited
+- No one NOTICES how you feel during the lesson ... you are a transaction
 
 """

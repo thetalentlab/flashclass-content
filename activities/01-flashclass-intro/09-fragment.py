@@ -4,7 +4,7 @@ Courses are called "sessions" and you can retake these sessions
 as many times as you want, no limit
 
 A session is a collection of "activities", like little games or
-challenges that you play with yourself just by paying attention
+challenges that you play with yourself by paying attention
 
 
 The orientation session is now finished
