@@ -1,4 +1,4 @@
-# code samples for flashclass
+# Code Samples for flashclass
 
 this repo is used as input to load flashclass content with a script that is run manually
 
@@ -11,7 +11,7 @@ this repo is used as input to load flashclass content with a script that is run 
 - there is 1 important folder in this repo called `activities`
 - there is also an `archived-activities` folder to keep working files from previous iterations
 
-# activity format
+# Activity Format
 
 `manifest.yaml`
 
