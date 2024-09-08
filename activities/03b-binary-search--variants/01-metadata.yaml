@@ -1,0 +1,2 @@
+description:  Uses two pointers to adjust search boundaries until target is found or exhausted.
+language: Python

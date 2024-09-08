@@ -1,3 +1,0 @@
-long_description: This version uses a helper function within the main `binary_search` function. The recursion continues narrowing the search space by adjusting `left` and `right` pointers until the target is found or determined absent.
-description: This version uses a helper function within the main `binary_search` function
-language: Python

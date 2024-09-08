@@ -1,0 +1,3 @@
+description: Uses Python's `bisect` module to efficiently find the target or return `-1` if absent.
+language: Python
+

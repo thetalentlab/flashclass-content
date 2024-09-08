@@ -1,0 +1,2 @@
+description: Uses NumPy's `searchsorted` for a concise, efficient binary search, ideal for array computations.
+language: Python

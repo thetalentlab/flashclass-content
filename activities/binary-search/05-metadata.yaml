@@ -1,3 +1,0 @@
-long_description: This version uses Python's `bisect` module to efficiently find the insertion point for the target in a sorted list. It simplifies binary search by returning the index if the target is found, or `-1` otherwise.
-description: This one uses the `bisect` module to find the insertion point for the target in a sorted list
-language: Python

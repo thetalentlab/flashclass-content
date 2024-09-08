@@ -1,3 +1,0 @@
-long_description: This approach demonstrates a functional programming style in Python, using `reduce` to perform an operation typically implemented with loops or recursion. It highlights the flexibility of Python's functional programming tools for implementing algorithmic solutions.
-description: This approach demonstrates a functional programming style in Python, using `reduce`
-language: Python

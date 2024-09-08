@@ -1,0 +1,3 @@
+description: More compact with a ternary operator, but slightly harder to read due to its conciseness.
+language: Python
+

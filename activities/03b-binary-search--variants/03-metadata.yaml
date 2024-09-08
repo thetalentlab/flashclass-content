@@ -1,0 +1,2 @@
+description: Uses `while-else`, returning `-1` if the target isn't found, highlighting Python's `else`.
+language: Python

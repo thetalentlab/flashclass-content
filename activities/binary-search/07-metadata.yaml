@@ -1,3 +1,0 @@
-long_description: This approach is iterative (an alternative to recursive), retaining the conceptual simplicity of recursive binary search while being explicit about the search intervals using a manual stack.
-description: This one is iterative and is explicit about the search intervals using a manual stack
-language: Python

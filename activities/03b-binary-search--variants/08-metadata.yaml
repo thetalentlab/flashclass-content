@@ -1,0 +1,3 @@
+description: Uses a `for` loop for search, exiting early if space is invalid, unlike typical `while` loop.
+language: Python
+
