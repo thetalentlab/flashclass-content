@@ -1,0 +1,2 @@
+description: Calculates mid-point differently, using reversed indexing to find the middle element.
+language: Python

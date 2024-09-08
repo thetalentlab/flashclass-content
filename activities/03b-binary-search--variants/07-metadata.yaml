@@ -1,0 +1,2 @@
+description: Iterative version, mimicking recursive search, with explicit intervals using a manual stack.
+language: Python

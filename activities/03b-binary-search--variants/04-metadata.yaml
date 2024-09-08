@@ -1,0 +1,3 @@
+description: Recursively searches with slicing, but slicing increases space complexity for large arrays.
+language: Python
+
