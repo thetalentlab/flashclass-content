@@ -25,9 +25,9 @@ There can be multiple pairs of fragment.py and metadata.yaml files in one activi
 Other than .py some other file extensions are also supported that includes .ts .js and .md
 
 But the pair should be like this. Example.
-1- 01-fragment.py and 01-metadata.yaml
-2- 01-fragment.md and 01-metadata.yaml
-3- 01-fragment.ts and 01-metadata.yaml
+- 01-fragment.py and 01-metadata.yaml
+- 01-fragment.md and 01-metadata.yaml
+- 01-fragment.ts and 01-metadata.yaml
 
 `##-fragment.py`
 
