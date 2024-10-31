@@ -13,17 +13,21 @@ this repo is used as input to load flashclass content with a script that is run 
 
 # Activity Format
 
+There should be only one file named manifest.yaml in one activity. There can be sevaral activities though.
+
 `manifest.yaml`
 
 ```yaml
 title: Binary Search
-description: Binary Search is a search algorithm that finds the position of a target value within a sorted array.
-instructions:
-  - pages:
-    - text: "In this activity we will show you a lot of code"
-    - text: "Relax and just look at the code; let your brain do the work."
 random: true
 ```
+There can be multiple pairs of fragment.py and metadata.yaml files in one activity folder.
+Other than .py some other file extensions are also supported that includes .ts .js and .md
+
+But the pair should be like this. Example.
+1- 01-fragment.py and 01-metadata.yaml
+2- 01-fragment.md and 01-metadata.yaml
+3- 01-fragment.ts and 01-metadata.yaml
 
 `##-fragment.py`
 
@@ -38,5 +42,4 @@ def binary_search(arr, target):
 
 ```yaml
 description: Binary Search is a search algorithm that finds the position of a target value within a sorted array.
-language: Python
 ```
